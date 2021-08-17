@@ -1,0 +1,17 @@
+{
+  "name": "node_simple_server",
+  "version": "1.0.0",
+  "description": "node simple server",
+  "main": "server.js",
+  "scripts": {
+    "test": "start \"node server.js\"",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "server",
+    "node",
+    "http"
+  ],
+  "author": "Muhammad Aziz Nurrohman",
+  "license": "ISC"
+}
